@@ -1,5 +1,4 @@
 # Contributors
-- Hi, I am NNS from Myanmar (https://github.com/NyeinNyein88/)
 - Hi, I am Topgrace from SouthKorea
 - Hi, I am Nick P from USA
 - Hi, my name is  Emin Mammdov from Azerbaijan
@@ -1808,6 +1807,7 @@ Onyi Ajoku😄 #My very first contribution! Excited for whats to come.******
 -[Keyrun Shrestha](https://github.com/DEADBODY142/)**First time contributing**
 - [Abhimanyu K] (https://github.com/AbhimanyuKrishnan) **First contribution**
 - [Matheus Leandro](https://github.com/matheusleandroo)**Jesus is the way, the truth and the life!**
+- [Dylan All](https://github.com/avnda)**With it we bless our Lord the Father, and with it we curse people who made in the likeness of God.**
 - Hasnain Memon @workwithHasnain
 -[Shahraiz Aziz](https://github.com/Shahraiz-commits/) **Well this is something, isn't it?**
 - [Yuriy Mysak](https://github.com/ChairBorn)**ChairBorn**
